@@ -1,4 +1,4 @@
-# Project 1 - *Name of App Here*
+# Project 1 - tippy
 
 tippy is a tip calculator application for iOS.
 
