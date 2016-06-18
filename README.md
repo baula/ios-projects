@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-XCode would not dwonload until the very end
+XCode would not download until the very end
 
 ## Credits
 
